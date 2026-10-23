@@ -1,0 +1,1 @@
+echo `nm sample/a.out | grep "printHello"`
